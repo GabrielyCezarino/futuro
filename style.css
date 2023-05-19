@@ -1,7 +1,19 @@
 .cabesalho{
-    background-color: palevioletred;
+    background-color: rgb(224, 164, 184);
 }
 .img1{
-    width: 10%;
+    width: 15%;
 }
+.pesquisa{width: 30%;}
 
+.alergia{ width: 19%;}
+
+.parvovirose{width: 19%;}
+
+.intoxicaçao{width: 19%;}
+
+.carrapato{width: 19%;}
+
+.titulo{ font-size: 450%;}
+
+.ulcera{width: 10%;}
