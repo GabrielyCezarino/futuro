@@ -1,9 +1,10 @@
-.cabesalho{
-    background-color: rgb(224, 164, 184);
-}
-.img1{
-    width: 15%;
-}
+body{margin: 0px 400px 0px 400px;}
+
+.cabesalho{background-color: rgb(224, 164, 184);}
+
+.img1{padding-left: 88%;
+    width: 15%;}
+
 .pesquisa{width: 30%;}
 
 .alergia{ width: 19%;}
@@ -17,3 +18,19 @@
 .titulo{ font-size: 450%;}
 
 .ulcera{width: 10%;}
+
+.babesiose{width: 19%;}
+
+.detectar{font-size: 200%;}
+
+.dicas{font-size: 200%;}
+
+.rotas{font-size: 200%;}
+
+.aqui{font-size: 250%;}
+
+.tem{font-size: 250%;}
+
+.nao{font-size: 250%;}
+
+.fale{font-size: 200%;}
